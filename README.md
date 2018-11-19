@@ -7,13 +7,17 @@ Clone this repo and cd into it.
 git clone https://github.com/abaybektursun/tf_tutorial
 cd tf_tutorial
 ```
+Make sure that you have virutalenv
+```bash 
+pip3 install virtualenv
+```
 
 Now we will create a virtualenv. Follow the steps for your operating system
 #### Linux
 ```bash 
 virtualenv --system-site-packages -p python3 ./venv
 source ./venv/bin/activate
-pip install --upgrade pip
+pip3 install --upgrade pip
 ```
 #### Windows
 ```PowerShell
