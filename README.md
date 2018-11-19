@@ -4,7 +4,7 @@
 ### Setting up an environment 
 Clone this repo and cd into it.
 ```bash
-clone https://github.com/abaybektursun/tf_tutorial
+git clone https://github.com/abaybektursun/tf_tutorial
 cd tf_tutorial
 ```
 
