@@ -39,3 +39,13 @@ In addition, you will have to have CUDA 9.0 and cuDNN installed.
  * Install CUDA 9.0 from here: https://developer.nvidia.com/cuda-90-download-archive
  * Install cuDNN by following instructions for your specific platform here. Make sure to downlad the cuDNN specifically for CUDA 9.0: https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
  * On Windows, GPU version of Tensorflow only supports Python 3.5.x
+ 
+## Jupyter Notebook
+Install new kernel for the jupyter notebook
+```bash
+ipython kernel install --user --name=tf_tutorial
+```
+Star the jupyter notebook
+```bash
+jupyter notebook
+```
