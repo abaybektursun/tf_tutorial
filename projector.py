@@ -12,7 +12,7 @@ import pickle
 
 import facenet
 
-LOG_DIR = 'face_embed_vis'
+LOG_DIR = 'projector'
 NAME_TO_VISUALISE_VARIABLE = "face_embedding"
 
 sprites_fn = 'faces.jpg'; metadata_fn = 'metadata.tsv'

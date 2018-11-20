@@ -4,3 +4,5 @@ face_embed_vis/
 data/dataset
 venv/
 __py*
+projector/
+tboard/
