@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+data/20180402-114759/
+face_embed_vis/
+data/dataset
+venv/
+__py*
