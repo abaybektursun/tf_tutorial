@@ -1,4 +1,4 @@
-tensorflow-gpu==1.7
+tensorflow-gpu
 scipy
 scikit-learn
 opencv-python
