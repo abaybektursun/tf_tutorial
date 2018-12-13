@@ -28,7 +28,7 @@ def move_to(paths, t):
 data_dir = "data/dataset/cropped"
 
 dataset_tmp = facenet.get_dataset(data_dir)
-train_set, test_set = split_dataset(dataset_tmp, 1, 4)
+train_set, test_set = split_dataset(dataset_tmp, 1, 10)
 
 for img in test_set:
     move_to(img.image_paths, 'test')

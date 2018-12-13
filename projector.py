@@ -20,7 +20,7 @@ path_for_sprites =  os.path.join(LOG_DIR, sprites_fn)
 path_for_metadata =  os.path.join(LOG_DIR, metadata_fn)
 
 this_dir  = os.path.dirname(os.path.realpath(__file__))
-data_dir  = os.path.join(this_dir, "data/dataset/train")
+data_dir  = os.path.join(this_dir, "data/dataset/test")
 model_dir = os.path.join(this_dir, "data/20180402-114759/")
 
 batch_size = 10
