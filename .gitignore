@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
+faceRecog.ckpt*
+checkpoint
 data/20180402-114759/
 face_embed_vis/
 data/dataset
